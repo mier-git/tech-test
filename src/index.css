@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+	margin-bottom: 1rem;
+}
+
+.container {
+	text-align: left;
+	margin-top: 10%;
+	margin-left: 5rem;
+}
+
+.input {
+	height: 30px !important;
+	border-radius: 0.5rem;
+	width: 20%;
+}
+
+.button {
+	height: 30px !important;
+	border-radius: 0.5rem;
+	width: 10rem;
+	margin-left: 1rem;
+}
+
+.sol-result {
+	margin-top: 1rem;
+	font-weight: 600;
+}
+
+.result {
+	font-weight: 400 !important;
+}
+
+.class {
+	margin-top: 5rem;
+}
+
+form {
+	display: inline;
+}
+
+.view-page:hover {
+	cursor: pointer;
+	text-decoration: underline;
+	color: blue;
+}
